@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo1Mjk0MDQ=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="af49e469-e782-4f35-b898-d1eb36206f3e" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="2bf71bc7-2c28-4595-b5a3-8553110d4f13" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="anthropic/claude-3-5-sonnet-20240620" />
+              <provider value="Anthropic" />
+              <tags>
+                <list>
+                  <option value="gateway" />
+                  <option value="accuracy" />
+                  <option value="recommended" />
+                  <option value="free" />
+                </list>
+              </tags>
+              <title value="Claude 3.5 Sonnet" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>

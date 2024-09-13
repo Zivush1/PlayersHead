@@ -1,0 +1,17 @@
+# Drop chance (0.0 to 1.0)
+drop-chance: 0.5
+
+# Head display name
+head-name: "&b%player%'s Head"
+
+# Head lore
+head-lore:
+  - "&7This head belonged to %player%"
+  - "&7Killed on &#ff0000%date%"
+  - "&7Killed by &c%killer%"
+
+# Death message
+death-message: "&cYour head has been dropped!"
+
+# Killed by message (set to "" to disable)
+killed-by-message: "&eYou were killed by %killer%!"

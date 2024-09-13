@@ -1,0 +1,9 @@
+name: PlayersHead
+version: '${project.version}'
+main: me.zivush.playershead.PlayersHead
+api-version: '1.20'
+commands:
+  playershead:
+    description: Reload the PlayersHead configuration
+    usage: /<command> reload
+    permission: playershead.reload
